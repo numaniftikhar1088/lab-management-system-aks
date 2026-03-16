@@ -203,7 +203,7 @@ helm upgrade --install lms-api helm/lms-api \
 This is **Project 1 of 3** in my cloud-native .NET portfolio series showcasing real-world Azure + Kubernetes architecture patterns.
 
 - ⭐ Star this repo if you found it useful
-- 🔗 [Connect on LinkedIn](https://linkedin.com/in/numaniftikhar)
+- 🔗 [Connect on LinkedIn](https://www.linkedin.com/in/numaniftikhar/)
 
 ---
 
